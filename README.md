@@ -13,7 +13,7 @@
 <div align="">
 
 ```yaml
-name: "Sunn Suthar"
+name: "Sunny Suthar"
 location: "Surat, Gujarat"
 role: "Web Developer"
 current_focus:
