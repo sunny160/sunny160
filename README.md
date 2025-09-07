@@ -28,12 +28,12 @@ current_focus:
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sunny8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api?username=sunny160&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
     alt="GitHub Stats" 
     style="width: 47%; min-width: 250px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sunny160&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
     alt="GitHub Streak" 
     style="width: 47%; min-width: 250px;"
   />
@@ -42,7 +42,7 @@ current_focus:
 ---
 
 <div align="">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sunny8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunny160&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
 </div>
 
 ## 💻 Tech Stack & Expertise
@@ -67,11 +67,11 @@ current_focus:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny8530&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny160&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny8530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ## 🎯 Current Focus & Expertise
@@ -104,13 +104,10 @@ current_focus:
   <a href="mailto:sunny.suthar48@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sunny8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sunny160&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
-</div>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20as%20Code%20is%20not%20just%20a%20practice,%20it's%20a%20mindset%20that%20transforms%20how%20we%20build%20and%20scale%20systems.&author=DevOps%20Engineer" alt="DevOps Quote" />
 </div>
 
 <div align="center">
